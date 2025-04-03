@@ -92,8 +92,9 @@
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DharanSJIT&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="70%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DharanSJIT&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="70%" />
 </p>
+
 
 <!-- LeetCode Stats -->
 <h2 align="center">⚡ LeetCode Statistics</h2>
