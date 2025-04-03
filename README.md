@@ -1,69 +1,50 @@
-## Hi there 👋
+# Hi there, I'm Dharan! 👋
 
+<img src="https://github.com/DharanSJIT.png" alt="Dharan's Profile Picture" width="150">
 
-**DharanSJIT/DharanSJIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Developer, Problem Solver, and AI/ML Enthusiast** with a strong interest in **Data Structures & Algorithms**, **Web Development**, and **Artificial Intelligence**.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FFAF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Lifelong+Learner;Open+to+Opportunities!" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-   <img src="https://github.com/DharanSJIT.png" alt="Dharan's Profile Picture">
-   <h1>Hi there, I'm Dharan! 👋</h1>
-  <p>I'm a passionate <strong>Developer, Problem Solver, and AI/ML Enthusiast</strong> with a strong interest in <strong>Data Structures & Algorithms</strong>, <strong>Web Development</strong>, and <strong>Artificial Intelligence</strong>.</p>
+## 🚀 About Me:
+- 🎓 **Education**: Currently pursuing my studies in Computer Science.
+- 🏆 **Achievements**:
+  - **NPTEL Certified** in *Programming in Java* (Elite Rank, 55%).
+  - **Java Test & Training** on Spoken Tutorial (Scored 92%).
+  - **Infosys Springboard Certified** in *Data Science*.
+  - Completed an offline internship at *Extrazee Software Solutions*.
+  - Interned at Codsoft and earned my first internship certificate!
+- 💻 **Current Learning**:
+  - 📚 *LeetCode 100 Days Challenge* (Day 4 completed!)
+  - 📚 *GFG 160-Day Coding Challenge* (Completed 102/160 challenges)
+  - 📚 *English Proficiency Test Preparation*
+- 🎯 **Hackathon Projects**:
+  - **AUTHENTICHECK**: Built using *React, MongoDB, and Node.js*.
+  - **Park Smart**: Real-Time Parking Availability Solution.
+  - Planning to participate in a **Message Control Protocol (MCP) Hackathon**.
+- 🤖 **Current Interest**: Building a **Chatbot using Gemini API with React & Vite**.
 
-  <h2>🚀 About Me:</h2>
-        <ul>
-            <li>🎓 <strong>Education</strong>: Currently pursuing my studies in Computer Science.</li>
-            <li>🏆 <strong>Achievements</strong>:
-                <ul>
-                    <li><strong>NPTEL Certified</strong> in <em>Programming in Java</em> (Elite Rank, 55%).</li>
-                    <li><strong>Java Test & Training</strong> on Spoken Tutorial (Scored 92%).</li>
-                    <li><strong>Infosys Springboard Certified</strong> in <em>Data Science</em>.</li>
-                    <li>Completed an offline internship at <em>Extrazee Software Solutions</em>.</li>
-                    <li>Interned at Codsoft and earned my first internship certificate!</li>
-                </ul>
-            </li>
-            <li>💻 <strong>Current Learning</strong>:
-                <ul>
-                    <li>📚 <em>LeetCode 100 Days Challenge</em> (Day 4 completed!)</li>
-                    <li>📚 <em>GFG 160-Day Coding Challenge</em> (Completed 102/160 challenges)</li>
-                    <li>📚 <em>English Proficiency Test Preparation</em></li>
-                </ul>
-            </li>
-            <li>🎯 <strong>Hackathon Projects</strong>:
-                <ul>
-                    <li><strong>AUTHENTICHECK</strong>: Built using <em>React, MongoDB, and Node.js</em>.</li>
-                    <li><strong>Park Smart</strong>: Real-Time Parking Availability Solution.</li>
-                    <li>Planning to participate in a <strong>Message Control Protocol (MCP) Hackathon</strong>.</li>
-                </ul>
-            </li>
-            <li>🤖 <strong>Current Interest</strong>: Building a <strong>Chatbot using Gemini API with React & Vite</strong>.</li>
-        </ul>
+## 🛠️ Tech Stack & Skills:
+- **Programming Languages:** Java, Python, JavaScript  
+- **Web Development:** React, Node.js, Vite, MongoDB  
+- **Data Science & AI/ML:** Pandas, NumPy, Machine Learning Concepts  
+- **Competitive Coding:** LeetCode, GeeksforGeeks, Coding Ninjas  
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman  
 
-  <h2>🛠️ Tech Stack & Skills:</h2>
-        <p><strong>Programming Languages:</strong> Java, Python, JavaScript</p>
-        <p><strong>Web Development:</strong> React, Node.js, Vite, MongoDB</p>
-        <p><strong>Data Science & AI/ML:</strong> Pandas, NumPy, Machine Learning Concepts</p>
-        <p><strong>Competitive Coding:</strong> LeetCode, GeeksforGeeks, Coding Ninjas</p>
-        <p><strong>Tools & Platforms:</strong> Git, GitHub, VS Code, Postman</p>
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DharanSJIT&show_icons=true&theme=radical" alt="Dharan's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharanSJIT&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
-  <h2>📊 GitHub Stats:</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=DharanSJIT&show_icons=true&theme=radical" alt="Dharan's GitHub Stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharanSJIT&layout=compact&theme=radical" alt="Top Languages">
+## 📫 Connect with Me:
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 🐦 [Twitter](https://twitter.com/your-profile/)
+- 📩 Email: [your-email@example.com](mailto:your-email@example.com)
 
-  <h2>📫 Connect with Me:</h2>
-        <p>🔗 <a href="https://www.linkedin.com/in/your-profile/">LinkedIn</a></p>
-        <p>🐦 <a href="https://twitter.com/your-profile/">Twitter</a></p>
-        <p>📩 Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+## ⭐ Fun Fact:
+I love solving **coding challenges**, learning new tech, and collaborating on cool projects!
 
-  <h3>⭐ Fun Fact:</h3>
-        <p>I love solving <strong>coding challenges</strong>, learning new tech, and collaborating on cool projects!</p>
-
-  <h3>🌟 “Code, Learn, Build, Repeat!” 🚀</h3>
-
+### 🌟 “Code, Learn, Build, Repeat!” 🚀
