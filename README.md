@@ -1,11 +1,8 @@
 <!-- Header Section with Improved Design -->
 <div align="center">
    <!-- Profile Picture -->
-   <a href="https://github.com/DharanSJIT">
-      <img src="https://github.com/DharanSJIT.png" alt="Dharan M J" width="200" height="200" style="border-radius:100%;" />
-   </a>
-
-  <h1>✨ Dharan M J ✨</h1>
+   <h1 align="center">Hi 👋, I'm Dharan M J</h1>
+  
   <h3>Full-Stack Developer | AI/ML Enthusiast | Competitive Programmer</h3>
 
   <!-- Typing Animation -->
