@@ -19,21 +19,7 @@
     <a href="https://leetcode.com/u/Dharan_05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   </p>
 
-  ## 🌐 Connect with Me:
-<p align="center">
-    <a href="https://www.linkedin.com/in/dharan-m-j-06555b280/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:dharan.mj05@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/DharanSJIT">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://leetcode.com/u/Dharan_05/">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-    </a>
-</p>
+ 
 
   <!-- GitHub Stats -->
   <p>
@@ -45,36 +31,59 @@
 
 ---
 
-## 🚀 About Me:
-- 🎓 **Education**: Currently pursuing studies in **Computer Science**.
-- 🏆 **Achievements**:
-  - 🏅 **NPTEL Certified** in *Programming in Java* (**Elite Rank, 55%**).
-  - 📜 **Java Test & Training** on Spoken Tutorial (**Scored 92%**).
-  - 🎓 **Infosys Springboard Certified** in *Data Science*.
-  - 🏢 Completed an offline internship at **Extrazee Software Solutions**.
-  - 💼 Interned at **Codsoft** and earned my **first internship certificate!**
-- 💻 **Current Learning**:
-  - 🔥 *LeetCode 100 Days Challenge* (**Day 4 completed!**)
-  - 📈 *GFG 160-Day Coding Challenge* (**Completed 102/160 challenges**)
-  - 📝 *English Proficiency Test Preparation*
-- 🎯 **Hackathon Projects**:
-  - 🚀 **AUTHENTICHECK**: Built using *React, MongoDB, and Node.js*.
-  - 🏙️ **Park Smart**: Real-Time Parking Availability Solution.
-  - 🛡️ Participating in the **Message Control Protocol (MCP) Hackathon**.
-- 🤖 **Current Interest**: Building a **Chatbot using Gemini API with React & Vite**.
+<div>
+  <h2>👨‍💻 About Me</h2>
+  
+  - 🔭 Currently working on **Full-Stack Web Development Projects**
+  - 🌱 Expanding knowledge in **React.js and Modern Frameworks**
+  - 👯 Looking to collaborate on **Open-source Projects and Hackathons**
+  - 📫 Reach me at: [dharan.mj05@gmail.com](mailto:dharan.mj05@gmail.com)
+  - ⚡ Fun fact: **Cricket enthusiast 🏏 and tech innovation advocate**
+</div>
+
 
 ---
 
-## 🛠️ Tech Stack & Skills:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,mongodb,vite,git,github,postman,vscode,linux,html,css&theme=dark&perline=6" alt="Tech Stack" />
-</p>
-
-- **Programming Languages:** Java, Python, JavaScript, C  
-- **Web Development:** React, Node.js, Vite, MongoDB  
-- **Data Science & AI/ML:** Pandas, NumPy, Machine Learning Concepts  
-- **Competitive Coding:** LeetCode, GeeksforGeeks, Coding Ninjas  
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Linux  
+<!-- Skills Section with Better Layout -->
+<div align="center">
+  <h2>🛠️ Technical Skills</h2>
+  
+  <!-- Primary Skills -->
+  <h3>Languages</h3>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  </p>
+  
+  <h3>Frontend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  </p>
+  
+  <h3>Backend & Database</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </p>
+  
+  <h3>Tools & Technologies</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  </p>
+  
+  <!-- Skill Icons Grid -->
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,java,c,react,mysql,mongodb,html,css,js,linux,git,vscode&theme=dark&perline=6" alt="Skills"/>
+    </a>
+  </p>
+</div>
 
 ---
 
@@ -98,17 +107,10 @@
 
 ---
 
-
-
----
-
-## ⭐ Fun Fact:
-I love solving **coding challenges**, learning new tech, and collaborating on cool projects!
-
-### 🌟 “Code, Learn, Build, Repeat!” 🚀
-
----
-
-## 💻 Crafted with ❤️ by Dharan M J
-<p align="center"><em>Passionate about Technology, Innovation, and Clean Code</em></p>
-
+<!-- Footer Section -->
+<div align="center">
+  <p>
+    <strong>💻 Crafted with ❤️ by Dharan M J </strong><br>
+    <em>Passionate about Technology, Innovation, and Clean Code</em>
+  </p>
+</div>
