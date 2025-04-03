@@ -1,12 +1,30 @@
 # Hi there, I'm Dharan! 👋
 
-<img src="https://github.com/DharanSJIT.png" alt="Dharan's Profile Picture" width="150">
+<p align="center">
+  <img src="https://github.com/DharanSJIT.png" alt="Dharan's Profile Picture" width="150">
+</p>
 
 I'm a passionate **Developer, Problem Solver, and AI/ML Enthusiast** with a strong interest in **Data Structures & Algorithms**, **Web Development**, and **Artificial Intelligence**.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FFAF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Lifelong+Learner;Open+to+Opportunities!" alt="Typing SVG" />
 </p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/dharan-m-j-06555b280/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:dharan.mj05@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/DharanSJIT">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://leetcode.com/u/Wz40F7n0bv/">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    </a>
+</p>
+
 
 ## 🚀 About Me:
 - 🎓 **Education**: Currently pursuing my studies in Computer Science.
@@ -39,11 +57,9 @@ I'm a passionate **Developer, Problem Solver, and AI/ML Enthusiast** with a stro
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharanSJIT&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-## 📫 Connect with Me:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dharan-m-j-06555b280/)
-- 🐦 [Twitter](https://twitter.com/your-profile/)
-- 📩 Email: [your-email@example.com](mailto:your-email@example.com)
-
+<!-- Social Badges -->
+  
+  
 ## ⭐ Fun Fact:
 I love solving **coding challenges**, learning new tech, and collaborating on cool projects!
 
