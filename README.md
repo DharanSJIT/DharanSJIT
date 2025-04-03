@@ -26,40 +26,53 @@ I'm a passionate **Developer, Problem Solver, and AI/ML Enthusiast** with a stro
 </p>
 
 
+
+---
+
 ## 🚀 About Me:
-- 🎓 **Education**: Currently pursuing my studies in Computer Science.
+- 🎓 **Education**: Currently pursuing my studies in **Computer Science**.
 - 🏆 **Achievements**:
-  - **NPTEL Certified** in *Programming in Java* (Elite Rank, 55%).
-  - **Java Test & Training** on Spoken Tutorial (Scored 92%).
-  - **Infosys Springboard Certified** in *Data Science*.
-  - Completed an offline internship at *Extrazee Software Solutions*.
-  - Interned at Codsoft and earned my first internship certificate!
+  - 🏅 **NPTEL Certified** in *Programming in Java* (**Elite Rank, 55%**).
+  - 📜 **Java Test & Training** on Spoken Tutorial (**Scored 92%**).
+  - 🎓 **Infosys Springboard Certified** in *Data Science*.
+  - 🏢 Completed an offline internship at **Extrazee Software Solutions**.
+  - 💼 Interned at **Codsoft** and earned my **first internship certificate!**
 - 💻 **Current Learning**:
-  - 📚 *LeetCode 100 Days Challenge* (Day 4 completed!)
-  - 📚 *GFG 160-Day Coding Challenge* (Completed 102/160 challenges)
-  - 📚 *English Proficiency Test Preparation*
+  - 🔥 *LeetCode 100 Days Challenge* (**Day 4 completed!**)
+  - 📈 *GFG 160-Day Coding Challenge* (**Completed 102/160 challenges**)
+  - 📝 *English Proficiency Test Preparation*
 - 🎯 **Hackathon Projects**:
-  - **AUTHENTICHECK**: Built using *React, MongoDB, and Node.js*.
-  - **Park Smart**: Real-Time Parking Availability Solution.
-  - Planning to participate in a **Message Control Protocol (MCP) Hackathon**.
+  - 🚀 **AUTHENTICHECK**: Built using *React, MongoDB, and Node.js*.
+  - 🏙️ **Park Smart**: Real-Time Parking Availability Solution.
+  - 🛡️ Planning to participate in a **Message Control Protocol (MCP) Hackathon**.
 - 🤖 **Current Interest**: Building a **Chatbot using Gemini API with React & Vite**.
 
+---
+
 ## 🛠️ Tech Stack & Skills:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,mongodb,vite,git,github,postman,vscode" alt="Tech Stack" />
+</p>
+
 - **Programming Languages:** Java, Python, JavaScript  
 - **Web Development:** React, Node.js, Vite, MongoDB  
 - **Data Science & AI/ML:** Pandas, NumPy, Machine Learning Concepts  
 - **Competitive Coding:** LeetCode, GeeksforGeeks, Coding Ninjas  
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman  
 
+---
+
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DharanSJIT&show_icons=true&theme=radical" alt="Dharan's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharanSJIT&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=DharanSJIT&show_icons=true&theme=radical" alt="Dharan's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharanSJIT&layout=compact&theme=radical" alt="Top Languages" width="48%">
 </p>
 
-<!-- Social Badges -->
-  
-  
+---
+
+
+---
+
 ## ⭐ Fun Fact:
 I love solving **coding challenges**, learning new tech, and collaborating on cool projects!
 
