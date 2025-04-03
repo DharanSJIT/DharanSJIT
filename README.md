@@ -40,7 +40,7 @@ I'm a passionate **Developer, Problem Solver, and AI/ML Enthusiast** with a stro
 </p>
 
 ## 📫 Connect with Me:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dharan-m-j-06555b280/)
 - 🐦 [Twitter](https://twitter.com/your-profile/)
 - 📩 Email: [your-email@example.com](mailto:your-email@example.com)
 
