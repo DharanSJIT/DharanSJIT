@@ -35,7 +35,7 @@
   - 🌱 Expanding knowledge in **React.js and Modern Frameworks**
   - 👯 Looking to collaborate on **Open-source Projects and Hackathons**
   - 📫 Reach me at: [dharan.mj05@gmail.com](mailto:dharan.mj05@gmail.com)
-  - ⚡ Fun fact: **Cricket enthusiast 🏏 and tech innovation advocate**
+  - ⚡ Fun fact: **I love playing Badminton🏏 and tech innovation advocate**
 </div>
 
 
