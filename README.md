@@ -29,13 +29,15 @@
 ---
 
 <div>
-  <h2>👨‍💻 About Me</h2>
-  
-  - 🔭 Currently working on **Full-Stack Web Development Projects**
-  - 🌱 Expanding knowledge in **React.js and Modern Frameworks**
-  - 👯 Looking to collaborate on **Open-source Projects and Hackathons**
-  - 📫 Reach me at: [dharan.mj05@gmail.com](mailto:dharan.mj05@gmail.com)
-  - ⚡ Fun fact: **I love playing Badminton🏏 and tech innovation advocate**
+ <h2 align="center">⚡ About Me</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> <strong>Currently working on</strong> Web Development projects<br>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <strong>Learning</strong> React.js and advanced frameworks<br>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> <strong>Looking to collaborate on</strong> Open-source & Hackathons<br>
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> <strong>Fun fact:</strong> I love playing Badminton  & Chess player ♟️
+</p>
+
 </div>
 
 
@@ -84,7 +86,7 @@
 
 ---
 
-## 📊 GitHub Statistics:
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DharanSJIT&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="49%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharanSJIT&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="49%">
@@ -97,7 +99,7 @@
 
 
 <!-- LeetCode Stats -->
-<h2 align="center">⚡ LeetCode Statistics</h2>
+<h2 align="center">⚡ LeetCode Progress</h2>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Dharan_05?theme=unicorn&font=RocknRoll%20One&ext=heatmap" alt="LeetCode Stats" width="70%">
 </p>
