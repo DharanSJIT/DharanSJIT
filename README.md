@@ -99,7 +99,7 @@
 <!-- LeetCode Stats -->
 <h2 align="center">⚡ LeetCode Statistics</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dharan_05?theme=nord&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" width="70%">
+  <img src="https://leetcard.jacoblin.cool/Dharan_05?theme=unicorn&font=RocknRoll%20One&ext=heatmap" alt="LeetCode Stats" width="70%">
 </p>
 
 
