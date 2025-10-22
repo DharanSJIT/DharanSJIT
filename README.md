@@ -46,6 +46,7 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DharanSJIT&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" alt="WakaTime Stats" width="50%"/>
   </p>
+  <p><em>💡 Connect your WakaTime account to see coding time statistics</em></p>
 </div>
 
 <!-- Interests & Hobbies -->
@@ -63,6 +64,7 @@
   <p>
     <img src="https://spotify-github-profile.vercel.app/api/spotify" alt="Currently Playing Spotify" width="50%"/>
   </p>
+  <p><em>💡 Connect your Spotify account to show what you're listening to</em></p>
 </div>
 
 </div>
@@ -167,13 +169,13 @@
 
 <!-- GitHub Stats Grid -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DharanSJIT&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=DharanSJIT&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="49%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharanSJIT&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" width="49%">
 </p>
 
 <!-- GitHub Streak and Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DharanSJIT&theme=tokyonight&hide_border=true&border_radius=10&stroke=0000&fire=FF9500&ring=FF9500&currStreakLabel=FF9500" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DharanSJIT&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="49%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DharanSJIT&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="49%" />
 </p>
 
@@ -269,8 +271,9 @@
   
   <!-- Snake Animation -->
   <p>
-    <img src="https://raw.githubusercontent.com/DharanSJIT/DharanSJIT/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+    <img src="https://github.com/DharanSJIT/DharanSJIT/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
   </p>
+  <p><em>💡 The snake animation will work once you have some GitHub contributions</em></p>
   
   <!-- Footer Text -->
   <p>
@@ -282,6 +285,6 @@
   
   <!-- Last Updated -->
   <p>
-    <img src="https://img.shields.io/badge/Last_Updated-$(date +%Y--%m--%d)-blue?style=for-the-badge" alt="Last Updated"/>
+    <img src="https://img.shields.io/badge/Last_Updated-December_2024-blue?style=for-the-badge" alt="Last Updated"/>
   </p>
 </div>
