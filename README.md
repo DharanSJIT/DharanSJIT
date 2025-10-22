@@ -44,9 +44,8 @@
 <div align="center">
   <h3>🎯 Quick Stats</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DharanSJIT&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" alt="WakaTime Stats" width="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=DharanSJIT&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&show_owner=true" alt="GitHub Stats" width="100%"/>
   </p>
-  <p><em>💡 Connect your WakaTime account to see coding time statistics</em></p>
 </div>
 
 <!-- Interests & Hobbies -->
@@ -60,11 +59,13 @@
   </p>
   
   <!-- Currently Listening Section -->
-  <h3>🎵 Currently Listening</h3>
+  <h3>🎵 Music & Interests</h3>
   <p>
-    <img src="https://spotify-github-profile.vercel.app/api/spotify" alt="Currently Playing Spotify" width="50%"/>
+    <img src="https://img.shields.io/badge/🎧_Currently_Listening_to-Music-FF6B6B?style=for-the-badge" alt="Music"/>
+    <img src="https://img.shields.io/badge/🎵_Favorite_Genre-Pop/Rock-4ECDC4?style=for-the-badge" alt="Genre"/>
+    <img src="https://img.shields.io/badge/🎤_Favorite_Artist-Various-FFE66D?style=for-the-badge" alt="Artist"/>
   </p>
-  <p><em>💡 Connect your Spotify account to show what you're listening to</em></p>
+  <p><em>💡 Love listening to music while coding! 🎶</em></p>
 </div>
 
 </div>
@@ -269,11 +270,10 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="100%"/>
   </p>
   
-  <!-- Snake Animation -->
+  <!-- Contribution Calendar -->
   <p>
-    <img src="https://github.com/DharanSJIT/DharanSJIT/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DharanSJIT&theme=tokyonight&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" alt="Contribution Graph" width="100%"/>
   </p>
-  <p><em>💡 The snake animation will work once you have some GitHub contributions</em></p>
   
   <!-- Footer Text -->
   <p>
