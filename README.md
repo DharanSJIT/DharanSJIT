@@ -57,14 +57,7 @@
     <img src="https://img.shields.io/badge/📚_Reading-FFE66D?style=for-the-badge" alt="Reading"/>
     <img src="https://img.shields.io/badge/🎵_Music-FF8CC8?style=for-the-badge" alt="Music"/>
   </p>
-  
-  <!-- Currently Listening Section -->
-  <h3>🎵 Music & Interests</h3>
-  <p>
-    <img src="https://img.shields.io/badge/🎧_Currently_Listening_to-Music-FF6B6B?style=for-the-badge" alt="Music"/>
-    <img src="https://img.shields.io/badge/🎵_Favorite_Genre-Pop/Rock-4ECDC4?style=for-the-badge" alt="Genre"/>
-    <img src="https://img.shields.io/badge/🎤_Favorite_Artist-Various-FFE66D?style=for-the-badge" alt="Artist"/>
-  </p>
+
   <p><em>💡 Love listening to music while coding! 🎶</em></p>
 </div>
 
@@ -180,12 +173,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DharanSJIT&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="49%" />
 </p>
 
-<!-- Trophy Section -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DharanSJIT&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" width="100%" />
-</p>
-
-
 <!-- LeetCode Stats -->
 <h2 align="center">⚡ LeetCode Progress</h2>
 <p align="center">
@@ -288,3 +275,4 @@
     <img src="https://img.shields.io/badge/Last_Updated-December_2024-blue?style=for-the-badge" alt="Last Updated"/>
   </p>
 </div>
+
