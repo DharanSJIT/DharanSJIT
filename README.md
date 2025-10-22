@@ -1,12 +1,13 @@
 <!-- Header Section with Improved Design -->
 <div align="center">
-   <!-- Profile Picture -->
-   <h1 align="center">Hi 👋, I'm Dharan M J</h1>
-  
-  <h3>Full-Stack Developer | AI/ML Enthusiast | Competitive Programmer</h3>
+  <!-- Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Dharan%20M%20J&fontSize=50&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Enthusiast%20%7C%20Competitive%20Programmer&descAlignY=55&descAlign=center&stroke=000000&strokeWidth=5" alt="Header Banner"/>
 
-  <!-- Typing Animation -->
+  <!-- Profile Picture with Glow Effect -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FFAF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Lifelong+Learner;Open+to+Opportunities!" alt="Typing SVG" />
+
+  <!-- Welcome Message -->
+  <h3 align="center">🚀 Welcome to my digital space! 🚀</h3>
 
   <!-- Social Links -->
   <p>
@@ -31,6 +32,7 @@
 <div>
  <h2 align="center">⚡ About Me</h2>
 
+<!-- Animated GIF Section -->
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> <strong>Currently working on</strong> Web Development projects<br>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <strong>Learning</strong> React.js and advanced frameworks<br>
@@ -38,8 +40,83 @@
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> <strong>Fun fact:</strong> I love playing Badminton  & Chess player ♟️
 </p>
 
+<!-- Fun Stats -->
+<div align="center">
+  <h3>🎯 Quick Stats</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DharanSJIT&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" alt="WakaTime Stats" width="50%"/>
+  </p>
 </div>
 
+<!-- Interests & Hobbies -->
+<div align="center">
+  <h3>🎨 Beyond Coding</h3>
+  <p>
+    <img src="https://img.shields.io/badge/🏸_Badminton-FF6B6B?style=for-the-badge" alt="Badminton"/>
+    <img src="https://img.shields.io/badge/♟️_Chess-4ECDC4?style=for-the-badge" alt="Chess"/>
+    <img src="https://img.shields.io/badge/📚_Reading-FFE66D?style=for-the-badge" alt="Reading"/>
+    <img src="https://img.shields.io/badge/🎵_Music-FF8CC8?style=for-the-badge" alt="Music"/>
+  </p>
+  
+  <!-- Currently Listening Section -->
+  <h3>🎵 Currently Listening</h3>
+  <p>
+    <img src="https://spotify-github-profile.vercel.app/api/spotify" alt="Currently Playing Spotify" width="50%"/>
+  </p>
+</div>
+
+</div>
+
+
+---
+
+<!-- Featured Projects Section -->
+<div align="center">
+  <h2>🌟 Featured Projects</h2>
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>🚀 Project Alpha</h3>
+        <p>Full-stack web application with React and Node.js</p>
+        <p>
+          <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firebase&logoColor=white" alt="Live Demo"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3>🤖 ML Project</h3>
+        <p>Machine Learning model for data prediction</p>
+        <p>
+          <a href="#"><img src="https://img.shields.io/badge/Demo-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Demo"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/Notebook-FF9800?style=for-the-badge&logo=jupyter&logoColor=white" alt="Notebook"/></a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3>📱 Mobile App</h3>
+        <p>Cross-platform mobile application</p>
+        <p>
+          <a href="#"><img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3>🎮 Game Project</h3>
+        <p>Interactive web-based game</p>
+        <p>
+          <a href="#"><img src="https://img.shields.io/badge/Play-00D2FF?style=for-the-badge&logo=unity&logoColor=white" alt="Play"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/Source-9CF?style=for-the-badge&logo=git&logoColor=000" alt="Source"/></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/View_All_Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/></a>
+  </p>
+</div>
 
 ---
 
@@ -86,15 +163,23 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<!-- GitHub Stats Grid -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DharanSJIT&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharanSJIT&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=DharanSJIT&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharanSJIT&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" width="49%">
 </p>
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak and Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DharanSJIT&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DharanSJIT&theme=tokyonight&hide_border=true&border_radius=10&stroke=0000&fire=FF9500&ring=FF9500&currStreakLabel=FF9500" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DharanSJIT&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="49%" />
+</p>
+
+<!-- Trophy Section -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DharanSJIT&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" width="100%" />
 </p>
 
 
@@ -107,10 +192,96 @@
 
 ---
 
+<!-- Contact & Collaboration Section -->
+<div align="center">
+  <h2>🤝 Let's Connect & Collaborate!</h2>
+  
+  <p>
+    <strong>💼 Open for Opportunities</strong><br>
+    I'm always excited to work on new projects, collaborate with fellow developers, and contribute to open-source initiatives!
+  </p>
+  
+  <!-- Contact Options -->
+  <table>
+    <tr>
+      <td align="center">
+        <h3>📧 Quick Contact</h3>
+        <p>
+          <a href="mailto:dharan.mj05@gmail.com">
+            <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+          </a>
+        </p>
+      </td>
+      <td align="center">
+        <h3>💼 Professional Network</h3>
+        <p>
+          <a href="https://www.linkedin.com/in/dharan-m-j-06555b280/">
+            <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>💬 Chat & Discuss</h3>
+        <p>
+          <a href="https://github.com/DharanSJIT">
+            <img src="https://img.shields.io/badge/Discuss_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+          </a>
+        </p>
+      </td>
+      <td align="center">
+        <h3>🏆 Coding Challenges</h3>
+        <p>
+          <a href="https://leetcode.com/u/Dharan_05/">
+            <img src="https://img.shields.io/badge/Challenge_Me_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Call to Action -->
+  <div style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); padding: 20px; border-radius: 15px; margin: 20px 0;">
+    <h3>🚀 Ready to Build Something Amazing?</h3>
+    <p>
+      Whether you're looking for a developer, want to collaborate on a project, or just want to chat about technology - I'd love to hear from you!
+    </p>
+    <p>
+      <a href="mailto:dharan.mj05@gmail.com">
+        <img src="https://img.shields.io/badge/Get_In_Touch-FF6B6B?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Get In Touch"/>
+      </a>
+    </p>
+  </div>
+</div>
+
+---
+
 <!-- Footer Section -->
 <div align="center">
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=DharanSJIT&style=for-the-badge&color=brightgreen&label=Profile%20Views" alt="Profile Views"/>
+  
+  <!-- Random Dev Quote -->
+  <p>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="100%"/>
+  </p>
+  
+  <!-- Snake Animation -->
+  <p>
+    <img src="https://raw.githubusercontent.com/DharanSJIT/DharanSJIT/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  </p>
+  
+  <!-- Footer Text -->
   <p>
     <strong>💻 Crafted with ❤️ by Dharan M J </strong><br>
-    <em>Passionate about Technology, Innovation, and Clean Code</em>
+    <em>Passionate about Technology, Innovation, and Clean Code</em><br><br>
+    <img src="https://img.shields.io/badge/Made_with-Markdown-1f425f.svg?style=for-the-badge" alt="Made with Markdown"/>
+    <img src="https://img.shields.io/badge/Hosted_on-GitHub-181717.svg?style=for-the-badge&logo=github" alt="Hosted on GitHub"/>
+  </p>
+  
+  <!-- Last Updated -->
+  <p>
+    <img src="https://img.shields.io/badge/Last_Updated-$(date +%Y--%m--%d)-blue?style=for-the-badge" alt="Last Updated"/>
   </p>
 </div>
