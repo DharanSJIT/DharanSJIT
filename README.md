@@ -10,110 +10,74 @@
   <h3 align="center">🚀 Welcome to my digital space! 🚀</h3>
 
   <!-- Social Links -->
-  <p>
-    <a href="https://www.linkedin.com/in/dharan-m-j-06555b280/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:dharan.mj05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://github.com/DharanSJIT"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://leetcode.com/u/Dharan_05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  </p>
+ <p>
+    <a href="https://dharanportfolio.xyz/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+   
+  <a href="https://www.linkedin.com/in/dharansjit/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
- 
+  <a href="mailto:dharan.mj05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://github.com/DharanSJIT">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  
+</p>
 
   <!-- GitHub Stats -->
-  <p>
-    <img src="https://img.shields.io/github/followers/DharanSJIT?label=Follow&style=flat-square" alt="GitHub followers"/>
-    <img src="https://img.shields.io/github/stars/DharanSJIT?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=flat-square" alt="GitHub stars"/>
-    <img src="https://komarev.com/ghpvc/?username=DharanSJIT&style=flat-square&color=brightgreen" alt="Profile views"/>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=DharanSJIT&label=Profile+Views&color=00D1B2&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/DharanSJIT?label=Followers&style=flat&color=00D1B2" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/DharanSJIT?label=Stars&style=flat&color=00D1B2" alt="GitHub Stars" />
   </p>
+
+  
 </div>
 
 ---
 
 <div>
- <h2 align="center">⚡ About Me</h2>
 
-<!-- Animated GIF Section -->
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> <strong>Currently working on</strong> Web Development projects<br>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <strong>Learning</strong> React.js and advanced frameworks<br>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> <strong>Looking to collaborate on</strong> Open-source & Hackathons<br>
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> <strong>Fun fact:</strong> I love playing Badminton  & Chess player ♟️
-</p>
-
-<!-- Fun Stats -->
+<!-- About Section with Modern Cards -->
 <div align="center">
-  <h3>🎯 Quick Stats</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=DharanSJIT&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&show_owner=true" alt="GitHub Stats" width="100%"/>
-  </p>
-</div>
-
-<!-- Interests & Hobbies -->
-<div align="center">
-  <h3>🎨 Beyond Coding</h3>
-  <p>
-    <img src="https://img.shields.io/badge/🏸_Badminton-FF6B6B?style=for-the-badge" alt="Badminton"/>
-    <img src="https://img.shields.io/badge/♟️_Chess-4ECDC4?style=for-the-badge" alt="Chess"/>
-    <img src="https://img.shields.io/badge/📚_Reading-FFE66D?style=for-the-badge" alt="Reading"/>
-    <img src="https://img.shields.io/badge/🎵_Music-FF8CC8?style=for-the-badge" alt="Music"/>
-  </p>
-
-  <p><em>💡 Love listening to music while coding! 🎶</em></p>
-</div>
-
-</div>
-
-
----
-
-<!-- Featured Projects Section -->
-<div align="center">
-  <h2>🌟 Featured Projects</h2>
   
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>🚀 Project Alpha</h3>
-        <p>Full-stack web application with React and Node.js</p>
-        <p>
-          <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firebase&logoColor=white" alt="Live Demo"/></a>
-          <a href="#"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3>🤖 ML Project</h3>
-        <p>Machine Learning model for data prediction</p>
-        <p>
-          <a href="#"><img src="https://img.shields.io/badge/Demo-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Demo"/></a>
-          <a href="#"><img src="https://img.shields.io/badge/Notebook-FF9800?style=for-the-badge&logo=jupyter&logoColor=white" alt="Notebook"/></a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3>📱 Mobile App</h3>
-        <p>Cross-platform mobile application</p>
-        <p>
-          <a href="#"><img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/></a>
-          <a href="#"><img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3>🎮 Game Project</h3>
-        <p>Interactive web-based game</p>
-        <p>
-          <a href="#"><img src="https://img.shields.io/badge/Play-00D2FF?style=for-the-badge&logo=unity&logoColor=white" alt="Play"/></a>
-          <a href="#"><img src="https://img.shields.io/badge/Source-9CF?style=for-the-badge&logo=git&logoColor=000" alt="Source"/></a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  ### 🚀 **Passionate Developer Building the Future**
   
-  <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/View_All_Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/></a>
-  </p>
 </div>
 
+<!-- About Stats -->
+
+```java
+class Developer {
+
+    String name = "Dharan M J";
+    String role = "Full Stack Developer & AI Enthusiast";
+    String education = "B.E Computer Science @ St. Joseph's Institute of Technology, Chennai";
+    String location = "Chennai, India";
+
+    String[] currentFocus = {
+        "Mastering Full Stack Development",
+        "Practicing Data Structures & Algorithms",
+        "Exploring Artificial Intelligence",
+        "Building Real-world Projects"
+    };
+
+    void sayHi() {
+        System.out.println("Thanks for visiting my profile! Let's build something amazing together 🚀");
+    }
+
+    public static void main(String[] args) {
+        Developer me = new Developer();
+        me.sayHi();
+    }
+}
+```
 ---
 
 <!-- Skills Section with Better Layout -->
@@ -123,55 +87,64 @@
   <!-- Primary Skills -->
   <h3>Languages</h3>
   <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  </p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
   
   <h3>Frontend</h3>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  </p>
-  
+ <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p> 
+
   <h3>Backend & Database</h3>
-  <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <br>
+  <img src="https://img.shields.io/badge/AstraDB-7C3AED?style=for-the-badge&logo=datastax&logoColor=white" alt="AstraDB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
   
   <h3>Tools & Technologies</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <br>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+  <img src="https://img.shields.io/badge/Thunder_Client-6C37FF?style=for-the-badge&logo=thunderbird&logoColor=white" alt="Thunder Client"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+</p>
   
-  <!-- Skill Icons Grid -->
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,java,c,react,mysql,mongodb,html,css,js,linux,git,vscode&theme=dark&perline=6" alt="Skills"/>
-    </a>
-  </p>
+ 
 </div>
 
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<!-- GitHub Stats Grid -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DharanSJIT&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharanSJIT&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" width="49%">
-</p>
+<div align="center">
 
-<!-- GitHub Streak and Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DharanSJIT&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DharanSJIT&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="49%" />
-</p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DharanSJIT&theme=github_dark" width="80%"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DharanSJIT&theme=github_dark" width="40%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DharanSJIT&theme=github_dark&utcOffset=5.5" width="40%"/>
+
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-R-05&theme=highcontrast&hide_border=true&border_radius=8" width="80%"/> -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DharanSJIT&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true&radius=8" width="80%"/>
+
+</div>
+
 
 <!-- LeetCode Stats -->
 <h2 align="center">⚡ LeetCode Progress</h2>
@@ -275,4 +248,3 @@
     <img src="https://img.shields.io/badge/Last_Updated-December_2024-blue?style=for-the-badge" alt="Last Updated"/>
   </p>
 </div>
-
