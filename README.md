@@ -158,93 +158,41 @@ class Developer {
 <!-- Contact & Collaboration Section -->
 <div align="center">
   <h2>🤝 Let's Connect & Collaborate!</h2>
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
   
-  <p>
-    <strong>💼 Open for Opportunities</strong><br>
-    I'm always excited to work on new projects, collaborate with fellow developers, and contribute to open-source initiatives!
-  </p>
+  ### **Reach Out!**
   
-  <!-- Contact Options -->
-  <table>
-    <tr>
-      <td align="center">
-        <h3>📧 Quick Contact</h3>
-        <p>
-          <a href="mailto:dharan.mj05@gmail.com">
-            <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-          </a>
-        </p>
-      </td>
-      <td align="center">
-        <h3>💼 Professional Network</h3>
-        <p>
-          <a href="https://www.linkedin.com/in/dharan-m-j-06555b280/">
-            <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>💬 Chat & Discuss</h3>
-        <p>
-          <a href="https://github.com/DharanSJIT">
-            <img src="https://img.shields.io/badge/Discuss_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-          </a>
-        </p>
-      </td>
-      <td align="center">
-        <h3>🏆 Coding Challenges</h3>
-        <p>
-          <a href="https://leetcode.com/u/Dharan_05/">
-            <img src="https://img.shields.io/badge/Challenge_Me_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharansjit/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharan.mj05@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DharanSJIT)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://dharanportfolio.xyz/)
+  
   
   <!-- Call to Action -->
-  <div style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); padding: 20px; border-radius: 15px; margin: 20px 0;">
-    <h3>🚀 Ready to Build Something Amazing?</h3>
-    <p>
-      Whether you're looking for a developer, want to collaborate on a project, or just want to chat about technology - I'd love to hear from you!
-    </p>
-    <p>
-      <a href="mailto:dharan.mj05@gmail.com">
-        <img src="https://img.shields.io/badge/Get_In_Touch-FF6B6B?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Get In Touch"/>
-      </a>
-    </p>
-  </div>
+  
 </div>
 
 ---
 
 <!-- Footer Section -->
 <div align="center">
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=DharanSJIT&style=for-the-badge&color=brightgreen&label=Profile%20Views" alt="Profile Views"/>
+ 
   
   <!-- Random Dev Quote -->
+  <h3>💭 Quote of the Day</h3>
   <p>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="100%"/>
   </p>
   
   <!-- Contribution Calendar -->
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DharanSJIT&theme=tokyonight&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" alt="Contribution Graph" width="100%"/>
-  </p>
-  
+ 
+  ---
   <!-- Footer Text -->
   <p>
     <strong>💻 Crafted with ❤️ by Dharan M J </strong><br>
     <em>Passionate about Technology, Innovation, and Clean Code</em><br><br>
-    <img src="https://img.shields.io/badge/Made_with-Markdown-1f425f.svg?style=for-the-badge" alt="Made with Markdown"/>
-    <img src="https://img.shields.io/badge/Hosted_on-GitHub-181717.svg?style=for-the-badge&logo=github" alt="Hosted on GitHub"/>
+   
   </p>
   
-  <!-- Last Updated -->
-  <p>
-    <img src="https://img.shields.io/badge/Last_Updated-December_2024-blue?style=for-the-badge" alt="Last Updated"/>
-  </p>
+ 
 </div>
