@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FFAF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Lifelong+Learner;Open+to+Opportunities!" alt="Typing SVG" />
 
   <!-- Welcome Message -->
-  <h3 align="center">🚀 Welcome to my digital space! CT-BE46FEE090🚀</h3>
+  <h3 align="center">🚀 Welcome to my digital space!🚀</h3>
 
   <!-- Social Links -->
  <p>
